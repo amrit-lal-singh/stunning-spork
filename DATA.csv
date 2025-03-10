@@ -1,0 +1,376 @@
+date,product,region,customer_id,sales_amount,marketing_spend,payment_method,order_status
+01/01/2024,Smartwatch,East,Customer_92,3349,769,UPI,Returned
+02/01/2024,Smartwatch,North,Customer_9,1275,368,UPI,Cancelled
+03/01/2024,Tablet,North,Customer_26,4526,1285,UPI,Returned
+04/01/2024,Smartwatch,South,Customer_9,2747,1383,Cash,Returned
+05/01/2024,Headphones,North,Customer_15,578,1023,Net Banking,Cancelled
+06/01/2024,Headphones,North,Customer_10,4426,1225,Debit Card,Completed
+07/01/2024,Tablet,South,Customer_88,1355,346,UPI,Returned
+08/01/2024,Headphones,South,Customer_42,2648,230,UPI,Returned
+09/01/2024,Smartphone,West,Customer_72,1531,452,UPI,Pending
+10/01/2024,Tablet,North,Customer_24,3771,295,Debit Card,Returned
+11/01/2024,Smartphone,East,Customer_80,,1029,UPI,Cancelled
+12/01/2024,Laptop,South,Customer_49,,1121,Debit Card,Pending
+13/01/2024,Smartphone,West,Customer_26,,744,UPI,Completed
+14/01/2024,Laptop,East,Customer_91,,326,Cash,Pending
+15/01/2024,Laptop,North,Customer_37,,800,Cash,Cancelled
+16/01/2024,Smartphone,West,Customer_68,,364,Debit Card,Cancelled
+17/01/2024,Tablet,South,Customer_50,,1495,Cash,Pending
+18/01/2024,Headphones,East,Customer_24,,745,Debit Card,Completed
+19/01/2024,Headphones,South,Customer_19,,310,Cash,Pending
+20/01/2024,Laptop,North,Customer_100,,1042,Cash,Completed
+21/01/2024,Laptop,East,Customer_60,,1487,Debit Card,Pending
+22/01/2024,Tablet,North,Customer_39,2450,556,Net Banking,Cancelled
+23/01/2024,Smartwatch,North,Customer_74,865,824,Cash,Returned
+24/01/2024,Smartphone,West,Customer_89,2174,1349,UPI,Returned
+25/01/2024,Laptop,South,Customer_18,4994,1081,Net Banking,Completed
+26/01/2024,Headphones,East,Customer_19,3046,1254,Debit Card,Completed
+27/01/2024,Tablet,North,Customer_36,1062,687,Net Banking,Completed
+28/01/2024,Smartphone,North,Customer_74,4062,575,Credit Card,Cancelled
+29/01/2024,Tablet,East,Customer_97,2989,1085,Credit Card,Pending
+30/01/2024,Smartphone,North,Customer_55,1272,1400,Cash,Cancelled
+31/01/2024,Smartphone,West,Customer_69,2537,255,Cash,Returned
+01/02/2024,Laptop,West,Customer_47,3923,1341,UPI,Completed
+02/02/2024,Tablet,West,Customer_49,3067,289,Net Banking,Pending
+03/02/2024,Tablet,West,Customer_99,2073,1080,Credit Card,Returned
+04/02/2024,Headphones,North,Customer_98,4194,645,Cash,Returned
+05/02/2024,Headphones,East,Customer_33,3791,140,Net Banking,Returned
+06/02/2024,Laptop,East,Customer_21,1746,406,Cash,Cancelled
+07/02/2024,Laptop,East,Customer_81,4219,1042,Cash,Completed
+08/02/2024,Smartwatch,East,Customer_22,4339,437,Credit Card,Returned
+09/02/2024,Headphones,South,Customer_48,859,1437,Credit Card,Completed
+10/02/2024,Smartphone,East,Customer_37,2876,1198,Cash,Cancelled
+11/02/2024,Tablet,South,Customer_15,3509,1052,Debit Card,Returned
+12/02/2024,Laptop,South,Customer_35,3493,378,Cash,Cancelled
+13/02/2024,Tablet,West,Customer_92,1462,1299,Cash,Cancelled
+14/02/2024,Tablet,South,Customer_71,4132,995,UPI,Completed
+15/02/2024,Smartwatch,North,Customer_32,2327,372,UPI,Returned
+16/02/2024,Headphones,South,Customer_11,2113,936,UPI,Cancelled
+17/02/2024,Laptop,West,Customer_10,2140,719,Debit Card,Returned
+18/02/2024,Tablet,South,Customer_73,2716,961,Debit Card,Completed
+19/02/2024,Laptop,North,Customer_78,4812,1030,Cash,Cancelled
+20/02/2024,Smartphone,North,Customer_77,877,388,UPI,Completed
+21/02/2024,Smartwatch,North,Customer_57,4714,823,Debit Card,Returned
+22/02/2024,Smartphone,West,Customer_25,4785,992,Credit Card,Returned
+23/02/2024,Laptop,West,Customer_2,869,371,Cash,Completed
+24/02/2024,Laptop,East,Customer_64,2696,1189,Net Banking,Pending
+25/02/2024,Headphones,West,Customer_35,4247,582,Cash,Cancelled
+26/02/2024,Tablet,North,Customer_7,1151,1035,Net Banking,Returned
+27/02/2024,Tablet,North,Customer_85,1269,347,UPI,Returned
+28/02/2024,Smartphone,West,Customer_18,2921,255,Net Banking,Cancelled
+29/02/2024,Smartwatch,South,Customer_67,1280,1170,UPI,Completed
+01/03/2024,Tablet,West,Customer_42,2216,553,Credit Card,Completed
+02/03/2024,Headphones,West,Customer_39,4483,300,Net Banking,Completed
+03/03/2024,Smartphone,North,Customer_41,1811,223,Cash,Pending
+04/03/2024,Smartphone,East,Customer_75,3859,100,UPI,Pending
+05/03/2024,Headphones,North,Customer_24,1022,1067,Cash,Returned
+06/03/2024,Smartwatch,East,Customer_60,1021,954,Debit Card,Completed
+07/03/2024,Headphones,North,Customer_46,2820,739,UPI,Cancelled
+08/03/2024,Smartwatch,West,Customer_19,1435,290,Net Banking,Returned
+09/03/2024,Headphones,North,Customer_68,2730,615,UPI,Cancelled
+10/03/2024,Headphones,North,Customer_90,4540,541,Cash,Returned
+11/03/2024,Laptop,North,Customer_42,4197,242,Credit Card,Pending
+12/03/2024,Smartphone,West,Customer_32,3337,1314,UPI,Returned
+13/03/2024,Headphones,West,Customer_39,4583,632,Net Banking,Pending
+14/03/2024,Headphones,West,Customer_36,2961,326,Debit Card,Returned
+15/03/2024,Tablet,West,Customer_97,3743,1436,Credit Card,Completed
+16/03/2024,Smartphone,East,Customer_36,3859,1048,Debit Card,Cancelled
+17/03/2024,Tablet,East,Customer_3,1185,1425,UPI,Completed
+18/03/2024,Smartphone,South,Customer_73,2660,559,Cash,Returned
+19/03/2024,Tablet,West,Customer_8,4488,650,Cash,Returned
+20/03/2024,Headphones,East,Customer_97,4566,492,Net Banking,Returned
+21/03/2024,Headphones,North,Customer_70,2067,944,Cash,Pending
+22/03/2024,Laptop,West,Customer_41,538,1330,Credit Card,Cancelled
+23/03/2024,Tablet,South,Customer_68,3044,309,Cash,Cancelled
+24/03/2024,Smartwatch,South,Customer_13,1756,1238,Net Banking,Returned
+25/03/2024,Laptop,South,Customer_49,3490,745,UPI,Returned
+26/03/2024,Tablet,North,Customer_60,2696,1374,UPI,Pending
+27/03/2024,Tablet,East,Customer_2,3968,318,Cash,Completed
+28/03/2024,Laptop,North,Customer_60,3208,506,Debit Card,Completed
+29/03/2024,Headphones,West,Customer_5,801,1477,UPI,Cancelled
+30/03/2024,Tablet,South,Customer_44,1146,987,Cash,Pending
+31/03/2024,Headphones,North,Customer_27,2259,657,Net Banking,Returned
+01/04/2024,Laptop,North,Customer_32,4851,649,Cash,Cancelled
+02/04/2024,Headphones,East,Customer_21,1097,241,UPI,Pending
+03/04/2024,Smartphone,East,Customer_8,1161,711,Net Banking,Completed
+04/04/2024,Smartwatch,South,Customer_72,4830,600,Cash,Pending
+05/04/2024,Tablet,North,Customer_50,1868,939,Credit Card,Completed
+06/04/2024,Smartwatch,North,Customer_67,3081,801,Net Banking,Pending
+07/04/2024,Headphones,East,Customer_44,4368,695,Credit Card,Cancelled
+08/04/2024,Tablet,North,Customer_58,4037,380,Debit Card,Completed
+09/04/2024,Headphones,North,Customer_3,4808,523,Net Banking,Cancelled
+10/04/2024,Smartphone,North,Customer_86,782,,Credit Card,Cancelled
+11/04/2024,Laptop,East,Customer_70,4178,,UPI,Completed
+12/04/2024,Tablet,South,Customer_2,1986,,UPI,Completed
+13/04/2024,Smartphone,West,Customer_87,4582,,Debit Card,Returned
+14/04/2024,Smartphone,South,Customer_44,4683,,Net Banking,Returned
+15/04/2024,Tablet,West,Customer_2,960,,Net Banking,Returned
+16/04/2024,Headphones,North,Customer_81,2825,,Net Banking,Cancelled
+17/04/2024,Smartphone,South,Customer_35,4254,,Debit Card,Cancelled
+18/04/2024,Smartwatch,West,Customer_98,2968,,Net Banking,Returned
+19/04/2024,Smartphone,East,Customer_87,2224,,UPI,Cancelled
+20/04/2024,Headphones,East,Customer_30,1876,,Credit Card,Cancelled
+21/04/2024,Headphones,South,Customer_8,3243,272,UPI,Completed
+22/04/2024,Smartwatch,South,Customer_22,1014,1450,UPI,Completed
+23/04/2024,Smartphone,North,Customer_44,1202,1186,Credit Card,Cancelled
+24/04/2024,Headphones,South,Customer_58,2153,1196,UPI,Returned
+25/04/2024,Tablet,North,Customer_36,2566,862,Debit Card,Pending
+26/04/2024,Laptop,North,Customer_69,522,1498,Credit Card,Returned
+27/04/2024,Laptop,East,Customer_77,2960,732,UPI,Pending
+28/04/2024,Laptop,East,Customer_93,1804,886,Cash,Returned
+29/04/2024,Smartphone,West,Customer_31,3800,1042,UPI,Completed
+30/04/2024,Smartwatch,East,Customer_47,861,1111,Debit Card,Cancelled
+01/05/2024,Headphones,East,Customer_55,4227,497,Net Banking,Cancelled
+02/05/2024,Tablet,South,Customer_80,1784,1243,UPI,Completed
+03/05/2024,Tablet,East,Customer_62,1014,1033,Net Banking,Pending
+04/05/2024,Smartphone,West,Customer_30,948,775,Cash,Pending
+05/05/2024,Laptop,South,Customer_55,2355,1035,UPI,Pending
+06/05/2024,Smartphone,West,Customer_16,4062,564,Credit Card,Completed
+07/05/2024,Smartwatch,East,Customer_12,3020,385,Net Banking,Pending
+08/05/2024,Smartwatch,West,Customer_17,3581,364,Cash,Completed
+09/05/2024,Headphones,South,Customer_16,1928,419,Credit Card,Returned
+10/05/2024,Headphones,North,Customer_12,4467,772,Credit Card,Returned
+11/05/2024,Smartwatch,West,Customer_8,1422,1499,Credit Card,Completed
+12/05/2024,Smartwatch,West,Customer_84,3637,919,Credit Card,Cancelled
+13/05/2024,Smartwatch,South,Customer_3,2659,188,UPI,Returned
+14/05/2024,Smartphone,South,Customer_16,3047,1326,UPI,Pending
+15/05/2024,Smartwatch,West,Customer_30,3479,920,UPI,Completed
+16/05/2024,Tablet,East,Customer_23,2781,1100,Cash,Pending
+17/05/2024,Laptop,West,Customer_92,3149,433,Cash,Pending
+18/05/2024,Smartwatch,South,Customer_5,813,321,Cash,Cancelled
+19/05/2024,Laptop,North,Customer_84,3113,140,Debit Card,Pending
+20/05/2024,Smartphone,North,Customer_65,3583,167,Cash,Cancelled
+21/05/2024,Laptop,East,Customer_30,2756,1087,UPI,Returned
+22/05/2024,Smartphone,West,Customer_21,1537,613,UPI,Completed
+23/05/2024,Tablet,North,Customer_84,3989,1250,Debit Card,Pending
+24/05/2024,Smartphone,West,Customer_70,3134,1378,Debit Card,Completed
+25/05/2024,Smartphone,South,Customer_22,4483,794,Cash,Pending
+26/05/2024,Headphones,North,Customer_82,2278,1139,Net Banking,Completed
+27/05/2024,Smartwatch,East,Customer_72,4395,576,Debit Card,Pending
+28/05/2024,Smartwatch,South,Customer_32,1624,1185,Credit Card,Pending
+29/05/2024,Tablet,East,Customer_33,1197,980,UPI,Pending
+30/05/2024,Tablet,South,Customer_16,2679,531,Credit Card,Pending
+31/05/2024,Smartwatch,North,Customer_76,1904,367,UPI,Pending
+01/06/2024,Headphones,East,Customer_38,1543,1158,UPI,Pending
+02/06/2024,Smartwatch,East,Customer_98,2429,878,Debit Card,Pending
+03/06/2024,Headphones,South,Customer_14,1513,593,Debit Card,Pending
+04/06/2024,Tablet,East,Customer_36,726,760,Credit Card,Pending
+05/06/2024,Laptop,South,Customer_97,2328,1448,UPI,Completed
+06/06/2024,Tablet,South,Customer_23,2523,1427,Credit Card,Cancelled
+07/06/2024,Tablet,South,Customer_66,2952,1399,Net Banking,Pending
+08/06/2024,Smartphone,South,Customer_85,2585,1112,Credit Card,Cancelled
+09/06/2024,Smartphone,North,Customer_2,4783,1324,Cash,Pending
+10/06/2024,Smartphone,South,Customer_91,1580,1447,Credit Card,Pending
+11/06/2024,Smartphone,West,Customer_73,2820,1158,Cash,Completed
+12/06/2024,Headphones,East,Customer_65,3690,1076,Cash,Returned
+13/06/2024,Smartwatch,West,Customer_75,3130,581,Cash,Returned
+14/06/2024,Laptop,North,Customer_67,3063,827,Net Banking,Completed
+15/06/2024,Tablet,West,Customer_52,3792,579,Credit Card,Cancelled
+16/06/2024,Headphones,East,Customer_62,4086,1188,Credit Card,Returned
+17/06/2024,Laptop,West,Customer_23,4931,1131,Net Banking,Completed
+18/06/2024,Headphones,North,Customer_26,3447,1424,UPI,Completed
+19/06/2024,Headphones,South,Customer_68,4459,442,Debit Card,Returned
+20/06/2024,Tablet,West,Customer_82,3313,431,Credit Card,Cancelled
+21/06/2024,Smartwatch,North,Customer_55,3083,537,Debit Card,Completed
+22/06/2024,Smartphone,North,Customer_6,661,273,Net Banking,Pending
+23/06/2024,Smartwatch,East,Customer_35,1093,658,UPI,Cancelled
+24/06/2024,Tablet,East,Customer_22,3759,626,UPI,Cancelled
+25/06/2024,Tablet,West,Customer_43,4655,758,UPI,Returned
+26/06/2024,Tablet,South,Customer_15,3462,125,Net Banking,Returned
+27/06/2024,Laptop,North,Customer_86,4388,919,Cash,Pending
+28/06/2024,Smartwatch,West,Customer_60,3890,704,Cash,Completed
+29/06/2024,Smartwatch,North,Customer_12,1163,505,Debit Card,Returned
+30/06/2024,Headphones,North,Customer_49,1632,331,Cash,Returned
+01/07/2024,Headphones,South,Customer_42,1041,632,Cash,Cancelled
+02/07/2024,Headphones,South,Customer_38,3474,604,UPI,Returned
+03/07/2024,Tablet,West,Customer_82,1367,278,UPI,Returned
+04/07/2024,Smartwatch,South,Customer_45,2566,231,Debit Card,Returned
+05/07/2024,Tablet,South,Customer_35,931,447,Credit Card,Returned
+06/07/2024,Laptop,West,Customer_30,4778,639,Debit Card,Cancelled
+07/07/2024,Headphones,South,Customer_88,1706,871,Debit Card,Pending
+08/07/2024,Tablet,East,Customer_30,3028,175,Net Banking,Pending
+09/07/2024,Tablet,North,Customer_78,1669,678,Net Banking,Completed
+10/07/2024,Laptop,North,Customer_6,1330,953,Debit Card,Returned
+11/07/2024,Smartphone,North,Customer_67,2151,293,Debit Card,Cancelled
+12/07/2024,Smartwatch,North,Customer_80,1636,1285,Debit Card,Completed
+13/07/2024,Smartphone,West,Customer_7,3310,446,Cash,Completed
+14/07/2024,Headphones,North,Customer_52,975,1050,Net Banking,Pending
+15/07/2024,Tablet,North,Customer_14,3310,1484,Debit Card,Cancelled
+16/07/2024,Laptop,North,Customer_73,1826,1210,UPI,Cancelled
+17/07/2024,Laptop,North,Customer_15,1519,1385,UPI,Cancelled
+18/07/2024,Smartwatch,East,Customer_21,2336,313,Cash,Pending
+19/07/2024,Smartphone,North,Customer_35,4756,672,Cash,Pending
+20/07/2024,Smartwatch,East,Customer_66,2948,879,Credit Card,Pending
+21/07/2024,Tablet,West,Customer_91,4793,361,Credit Card,Pending
+22/07/2024,Smartwatch,South,Customer_2,1783,829,Credit Card,Pending
+23/07/2024,Laptop,North,Customer_35,1159,382,Cash,Returned
+24/07/2024,Laptop,South,Customer_82,2510,461,Cash,Returned
+25/07/2024,Headphones,South,Customer_78,898,540,Cash,Cancelled
+26/07/2024,Headphones,West,Customer_20,2233,192,UPI,Completed
+27/07/2024,Tablet,South,Customer_82,2625,852,Cash,Cancelled
+28/07/2024,Smartphone,East,Customer_10,2671,966,UPI,Completed
+29/07/2024,Smartwatch,South,Customer_25,574,241,Credit Card,Pending
+30/07/2024,Tablet,South,Customer_66,3971,1414,Credit Card,Completed
+31/07/2024,Headphones,South,Customer_25,1336,848,Credit Card,Cancelled
+01/08/2024,Smartwatch,North,Customer_54,999,752,Debit Card,Cancelled
+02/08/2024,Headphones,North,Customer_33,637,800,Debit Card,Completed
+03/08/2024,Smartwatch,East,Customer_36,2597,1097,Net Banking,Returned
+04/08/2024,Smartphone,East,Customer_95,4196,148,Net Banking,Pending
+05/08/2024,Tablet,North,Customer_14,2385,1425,Net Banking,Pending
+06/08/2024,Smartwatch,East,Customer_65,3257,980,Debit Card,Cancelled
+07/08/2024,Laptop,North,Customer_80,4420,1313,Debit Card,Returned
+08/08/2024,Laptop,West,Customer_54,2400,1259,Net Banking,Completed
+09/08/2024,Smartwatch,South,Customer_52,3110,654,Net Banking,Pending
+10/08/2024,Smartwatch,South,Customer_3,4486,503,Cash,Returned
+11/08/2024,Smartwatch,East,Customer_99,1949,991,Net Banking,Pending
+12/08/2024,Laptop,North,Customer_41,1046,964,Cash,Returned
+13/08/2024,Laptop,North,Customer_6,2503,701,UPI,Returned
+14/08/2024,Smartwatch,East,Customer_25,2596,440,Debit Card,Cancelled
+15/08/2024,Headphones,North,Customer_13,1203,803,Net Banking,Pending
+16/08/2024,Headphones,West,Customer_98,2903,417,Debit Card,Completed
+17/08/2024,Smartphone,South,Customer_8,2125,717,Debit Card,Cancelled
+18/08/2024,Tablet,East,Customer_21,3831,1486,Debit Card,Cancelled
+19/08/2024,Headphones,East,Customer_98,3478,481,UPI,Completed
+20/08/2024,Laptop,North,Customer_68,3339,332,Credit Card,Cancelled
+21/08/2024,Headphones,East,Customer_25,3884,1467,Net Banking,Returned
+22/08/2024,Smartphone,West,Customer_79,3159,916,Credit Card,Returned
+23/08/2024,Smartphone,North,Customer_68,2361,652,Credit Card,Pending
+24/08/2024,Tablet,North,Customer_45,3356,955,Credit Card,Pending
+25/08/2024,Headphones,North,Customer_60,1185,918,Debit Card,Completed
+26/08/2024,Laptop,North,Customer_12,4783,282,Cash,Pending
+27/08/2024,Laptop,West,Customer_32,2119,1164,Debit Card,Returned
+28/08/2024,Smartwatch,North,Customer_96,1931,496,Debit Card,Completed
+29/08/2024,Laptop,East,Customer_92,1375,878,Credit Card,Completed
+30/08/2024,Tablet,West,Customer_13,2961,1006,Debit Card,Pending
+31/08/2024,Tablet,South,Customer_31,1865,1456,Credit Card,Returned
+01/09/2024,Laptop,South,Customer_78,1743,226,Cash,Completed
+02/09/2024,Laptop,East,Customer_20,662,100,Net Banking,Returned
+03/09/2024,Smartwatch,East,Customer_18,2474,1291,Credit Card,Returned
+04/09/2024,Laptop,West,Customer_93,3791,118,Cash,Returned
+05/09/2024,Smartwatch,South,Customer_60,769,1455,Net Banking,Pending
+06/09/2024,Smartwatch,South,Customer_63,1131,683,UPI,Cancelled
+07/09/2024,Laptop,South,Customer_6,1405,555,Credit Card,Cancelled
+08/09/2024,Smartphone,South,Customer_32,3971,1056,Credit Card,Completed
+09/09/2024,Smartphone,South,Customer_93,3753,1232,UPI,Returned
+10/09/2024,Smartwatch,North,Customer_43,2514,1391,UPI,Pending
+11/09/2024,Laptop,East,Customer_2,2141,544,Credit Card,Returned
+12/09/2024,Smartphone,North,Customer_60,704,1363,UPI,Returned
+13/09/2024,Laptop,South,Customer_23,1081,1424,Debit Card,Pending
+14/09/2024,Laptop,West,Customer_83,1340,701,Net Banking,Cancelled
+15/09/2024,Laptop,West,Customer_31,2219,202,Net Banking,Returned
+16/09/2024,Headphones,South,Customer_5,3143,1087,Net Banking,Returned
+17/09/2024,Laptop,South,Customer_83,2797,1373,Debit Card,Cancelled
+18/09/2024,Headphones,West,Customer_34,1374,619,UPI,Pending
+19/09/2024,Smartwatch,North,Customer_10,1189,1276,Cash,Completed
+20/09/2024,Smartphone,North,Customer_89,4500,958,UPI,Cancelled
+21/09/2024,Smartphone,South,Customer_2,3641,273,Credit Card,Completed
+22/09/2024,Smartphone,North,Customer_11,1922,1466,Net Banking,Completed
+23/09/2024,Smartphone,West,Customer_50,1171,1104,UPI,Cancelled
+24/09/2024,Smartphone,North,Customer_31,1671,530,Cash,Returned
+25/09/2024,Smartphone,South,Customer_56,4226,826,Credit Card,Completed
+26/09/2024,Smartphone,West,Customer_79,1443,949,Debit Card,Completed
+27/09/2024,Smartwatch,North,Customer_73,1949,1447,Debit Card,Pending
+28/09/2024,Laptop,East,Customer_87,4237,1089,Cash,Returned
+29/09/2024,Tablet,West,Customer_83,3039,738,Credit Card,Completed
+30/09/2024,Headphones,West,Customer_9,4459,519,Net Banking,Pending
+01/10/2024,Tablet,East,Customer_99,4760,693,UPI,Returned
+02/10/2024,Tablet,East,Customer_21,2861,584,Credit Card,Cancelled
+03/10/2024,Laptop,West,Customer_73,4152,511,Debit Card,Cancelled
+04/10/2024,Laptop,East,Customer_28,4170,1035,Cash,Pending
+05/10/2024,Laptop,South,Customer_62,2253,1207,Cash,Cancelled
+06/10/2024,Smartphone,South,Customer_7,2852,1236,UPI,Completed
+07/10/2024,Smartwatch,South,Customer_80,2438,431,Cash,Returned
+08/10/2024,Smartphone,West,Customer_16,870,754,Cash,Completed
+09/10/2024,Smartwatch,East,Customer_97,4979,140,Credit Card,Completed
+10/10/2024,Smartwatch,East,Customer_4,2431,1058,Net Banking,Cancelled
+11/10/2024,Tablet,North,Customer_4,924,204,UPI,Completed
+12/10/2024,Tablet,North,Customer_40,1394,301,Credit Card,Cancelled
+13/10/2024,Smartwatch,East,Customer_17,1097,549,Net Banking,Returned
+14/10/2024,Smartwatch,East,Customer_52,3562,1389,Credit Card,Returned
+15/10/2024,Smartphone,East,Customer_93,2836,1009,Credit Card,Completed
+16/10/2024,Smartphone,West,Customer_52,2187,309,Cash,Pending
+17/10/2024,Tablet,East,Customer_36,1072,662,Net Banking,Cancelled
+18/10/2024,Laptop,North,Customer_38,2590,1241,UPI,Cancelled
+19/10/2024,Smartwatch,West,Customer_50,4169,812,UPI,Completed
+20/10/2024,Smartphone,East,Customer_63,4772,870,Net Banking,Cancelled
+21/10/2024,Tablet,North,Customer_63,2133,1207,Cash,Cancelled
+22/10/2024,Smartphone,West,Customer_62,2017,553,Debit Card,Pending
+23/10/2024,Smartwatch,East,Customer_99,4793,766,Credit Card,Pending
+24/10/2024,Smartwatch,East,Customer_7,3157,728,Cash,Completed
+25/10/2024,Headphones,East,Customer_27,4148,486,Net Banking,Pending
+26/10/2024,Laptop,West,Customer_92,4088,1473,Credit Card,Completed
+27/10/2024,Headphones,North,Customer_86,2037,395,UPI,Returned
+28/10/2024,Tablet,North,Customer_14,3637,357,Debit Card,Completed
+29/10/2024,Smartphone,South,Customer_71,597,1204,UPI,Returned
+30/10/2024,Tablet,East,Customer_86,3715,367,Net Banking,Completed
+31/10/2024,Smartwatch,South,Customer_5,4250,518,Credit Card,Cancelled
+01/11/2024,Headphones,South,Customer_55,3657,334,Net Banking,Pending
+02/11/2024,Headphones,North,Customer_2,843,1434,Credit Card,Returned
+03/11/2024,Headphones,West,Customer_62,1110,1085,Cash,Completed
+04/11/2024,Tablet,West,Customer_91,2227,1480,Debit Card,Pending
+05/11/2024,Smartwatch,North,Customer_21,2790,1336,Cash,Completed
+06/11/2024,Smartphone,West,Customer_79,2354,673,Cash,Pending
+07/11/2024,Smartphone,South,Customer_21,3108,148,Net Banking,Pending
+08/11/2024,Tablet,East,Customer_10,2579,1250,Debit Card,Completed
+09/11/2024,Headphones,North,Customer_87,2824,322,Credit Card,Returned
+10/11/2024,Laptop,East,Customer_58,1677,1020,Credit Card,Returned
+11/11/2024,Tablet,West,Customer_39,1591,1402,UPI,Cancelled
+12/11/2024,Tablet,East,Customer_5,3291,1417,Credit Card,Pending
+13/11/2024,Smartwatch,West,Customer_65,2249,376,Net Banking,Cancelled
+14/11/2024,Smartphone,West,Customer_13,3175,1230,Cash,Cancelled
+15/11/2024,Tablet,South,Customer_85,1281,519,Cash,Completed
+16/11/2024,Tablet,West,Customer_90,3548,710,Cash,Completed
+17/11/2024,Headphones,South,Customer_85,2605,474,Debit Card,Completed
+18/11/2024,Headphones,South,Customer_53,4367,172,Credit Card,Pending
+19/11/2024,Laptop,South,Customer_82,2613,1153,Net Banking,Completed
+20/11/2024,Smartwatch,North,Customer_45,4470,1311,Debit Card,Completed
+21/11/2024,Laptop,North,Customer_32,2491,1487,UPI,Pending
+22/11/2024,Headphones,West,Customer_36,1567,294,Net Banking,Pending
+23/11/2024,Smartphone,South,Customer_81,2077,1279,Net Banking,Returned
+24/11/2024,Headphones,North,Customer_99,1511,1295,Net Banking,Completed
+25/11/2024,Smartwatch,South,Customer_60,2774,946,Cash,Completed
+26/11/2024,Headphones,East,Customer_11,2314,1164,Net Banking,Completed
+27/11/2024,Smartwatch,East,Customer_63,2926,1186,Credit Card,Returned
+28/11/2024,Smartwatch,East,Customer_21,4902,122,Net Banking,Completed
+29/11/2024,Smartwatch,West,Customer_52,3051,459,Cash,Returned
+30/11/2024,Smartwatch,South,Customer_55,4157,1198,Net Banking,Cancelled
+01/12/2024,Smartwatch,East,Customer_26,507,659,UPI,Returned
+02/12/2024,Smartphone,North,Customer_68,3055,771,UPI,Cancelled
+03/12/2024,Laptop,East,Customer_34,975,1241,Cash,Completed
+04/12/2024,Tablet,East,Customer_52,2711,778,Credit Card,Cancelled
+05/12/2024,Laptop,East,Customer_82,984,1413,Credit Card,Returned
+06/12/2024,Smartwatch,West,Customer_99,2785,539,Debit Card,Pending
+07/12/2024,Smartphone,North,Customer_93,4025,1032,Cash,Cancelled
+08/12/2024,Headphones,South,Customer_52,3839,106,Net Banking,Cancelled
+09/12/2024,Smartphone,North,Customer_29,3322,1319,Cash,Completed
+10/12/2024,Smartwatch,South,Customer_38,3424,520,Debit Card,Returned
+11/12/2024,Smartphone,West,Customer_42,758,932,Cash,Cancelled
+12/12/2024,Smartphone,West,Customer_21,782,1316,Cash,Cancelled
+13/12/2024,Smartwatch,West,Customer_42,2398,658,Debit Card,Cancelled
+14/12/2024,Smartphone,West,Customer_13,4635,1271,Credit Card,Cancelled
+15/12/2024,Tablet,South,Customer_64,3476,1325,Net Banking,Pending
+16/12/2024,Tablet,East,Customer_17,2767,1013,Debit Card,Returned
+17/12/2024,Smartphone,South,Customer_9,3700,1106,UPI,Completed
+18/12/2024,Headphones,North,Customer_41,1112,225,Credit Card,Completed
+19/12/2024,Smartwatch,West,Customer_1,1187,494,UPI,Pending
+20/12/2024,Tablet,West,Customer_2,4190,916,Credit Card,Returned
+21/12/2024,Headphones,North,Customer_60,1112,980,Net Banking,Cancelled
+22/12/2024,Smartphone,South,Customer_48,2807,675,Net Banking,Pending
+23/12/2024,Headphones,East,Customer_29,3513,424,Cash,Returned
+24/12/2024,Laptop,East,Customer_97,2281,1029,UPI,Cancelled
+25/12/2024,Tablet,North,Customer_10,3091,1327,Credit Card,Pending
+26/12/2024,Smartphone,East,Customer_58,3196,932,Net Banking,Returned
+27/12/2024,Smartwatch,South,Customer_60,4458,1154,Debit Card,Completed
+28/12/2024,Smartphone,South,Customer_21,1074,936,Net Banking,Completed
+29/12/2024,Smartwatch,North,Customer_28,2410,1025,Debit Card,Returned
+30/12/2024,Smartphone,South,Customer_75,4104,1499,Credit Card,Completed
+20/02/2024,Smartphone,North,Customer_77,877,388,UPI,Completed
+21/02/2024,Smartwatch,North,Customer_57,4714,823,Debit Card,Returned
+22/02/2024,Smartphone,West,Customer_25,4785,992,Credit Card,Returned
+23/02/2024,Laptop,West,Customer_2,869,371,Cash,Completed
+24/02/2024,Laptop,East,Customer_64,2696,1189,Net Banking,Pending
+25/02/2024,Headphones,West,Customer_35,4247,582,Cash,Cancelled
+26/02/2024,Tablet,North,Customer_7,1151,1035,Net Banking,Returned
+27/02/2024,Tablet,North,Customer_85,1269,347,UPI,Returned
+28/02/2024,Smartphone,West,Customer_18,2921,255,Net Banking,Cancelled
+29/02/2024,Smartwatch,South,Customer_67,1280,1170,UPI,Completed
